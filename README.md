@@ -14,7 +14,7 @@
      - [ ] all about traditional neural nets (weights, synapses, bare minimum)
      - [ ] blog page?
 - [ ] initial C draft
-     - [ ] include gc
+     - [ ] include gc (garbage collecter for C!)
      - [ ] include Graph DB instance and general structure
      - [ ] method/method overrides
            
