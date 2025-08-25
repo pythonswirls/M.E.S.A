@@ -1,6 +1,5 @@
 (WIP) (Mem. Efficient State Automaton) Just a learning-focused research outline for designing a topological state machine automaton with neural net properties.
 
-
 ---
 ### Init. concept:
 
@@ -32,3 +31,11 @@ Features will include:
 * A rigid C program for manipulating the main state-machine DB and API functionality
 	* algos for resource management (mainly memory)
 
+---
+
+### Use-case
+Potentially, this design construct could apply beneficially to any system: since in the learning process, the logic flow is fundamentally under the control of the user fine-tuning it. But mainly my motivation is to load this program onto my home lab to help automate tedious host processes and also remotely pilot a robot drone. (once the program exists lol)
+
+---
+
+### TODO finish this
