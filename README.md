@@ -33,9 +33,14 @@ Features will include:
 
 ---
 
+### Logic layers: (ideal for receiving linguistic instructions)
+* L1: TODO
+
+---
 ### Use-case
 Potentially, this design construct could apply beneficially to any system: since in the learning process, the logic flow is fundamentally under the control of the user fine-tuning it. But mainly my motivation is to load this program onto my home lab to help automate tedious host processes and also remotely pilot a robot drone. (once the program exists lol)
 
 ---
+
 
 ### TODO finish this
